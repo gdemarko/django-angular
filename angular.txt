@@ -1,0 +1,3 @@
+Angular:
+
+Entender a propriedade "Strict" em tsconfing.json
